@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+body {
+  background-color: black;
+}
+.title {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+img {
+  width: 700px;
+  border-radius: 20px;
+  box-shadow: 0 0 6px;
+  margin-top: 10px;
+}
+video {
+  margin-top: 20px;
+  width: 700px;
+}
